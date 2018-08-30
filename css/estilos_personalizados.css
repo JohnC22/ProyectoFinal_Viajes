@@ -1,0 +1,35 @@
+.icono{
+  max-width: 150px;
+}
+
+h5{
+  width: 100%;
+}
+
+.contenido{
+  height: 20%;
+}
+
+#contenedor_vertical{
+  height: 500px;
+}
+
+.icon{
+  max-width: 70%;
+}
+
+.icon-2{
+  max-width: 50%;
+}
+
+body{
+  background: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+.transparente{
+  background-color:rgba(255, 255, 255, 0.7);
+}
